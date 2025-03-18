@@ -45,7 +45,7 @@ const INFO = {
 		{
 			title: "PortafolioReact",
 			description:
-				"The Pokédex App is a modern Android application built using Kotlin, Jetpack Compose, and Room. It provides users with an intuitive interface to browse and search for Pokémon, Items, and Abilities. The app integrates with PokeAPI to fetch real-time data, ensuring up-to-date information about Pokémon.",
+				"This is my personal portfolio website, where I showcase my work as a developer. The site includes a brief introduction about me, links to my social media for contact, a collection of my completed projects, and details about my professional experience. The goal of this website is to provide an overview of my skills, background, and achievements in web and mobile development.",
 			logo: "React-icon.svg",
 			linkText: "View Project",
 			link: "https://github.com/JereAle/PortfolioReact",
