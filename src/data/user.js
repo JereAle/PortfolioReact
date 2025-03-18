@@ -1,28 +1,28 @@
 const INFO = {
 	main: {
 		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		name: "Jeremías Santibáñez Gutiérrez",
+		email: "jereale.santi@hotmail.com",
+		logo: "../JeSanGu.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/JereAle",
+		linkedin: "https://www.linkedin.com/in/jeremias-a-santib%C3%A1%C3%B1ez-guti%C3%A9rrez-86161b227/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Developer junior, and a fantasy enthusiast.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a Computer Science student with experience in web and mobile development. My passion for technology encompasses everything related to computing, especially video games and cybersecurity. With my enthusiasm and constant desire to learn more about the tech industry, I can bring determination, proactivity, and a fresh perspective to any company that welcomes me, backed by my years of university studies.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Jeremías Santibáñez G. I live in Santiago, Chile.",
 		description:
 			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
@@ -35,48 +35,12 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "PokeAppRoom",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"The Pokédex App is a modern Android application built using Kotlin, Jetpack Compose, and Room. It provides users with an intuitive interface to browse and search for Pokémon, Items, and Abilities. The app integrates with PokeAPI to fetch real-time data, ensuring up-to-date information about Pokémon.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/JereAle/PokeAppRoom",
 		},
 	],
 };

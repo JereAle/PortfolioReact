@@ -1,4 +1,8 @@
 @import "../../../data/styles.css";
+.works{
+	background: #fafafa;
+	border-radius: 20px;
+}
 
 .works-body {
 	margin-bottom: 10px;
@@ -14,7 +18,7 @@
 	height: 30px;
 	width: 30px;
 	border-radius: 50%;
-	outline: 6px solid white;
+	outline: 6px solid #17C1D4;
 	box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.25);
 }
 
@@ -32,6 +36,7 @@
 	color: var(--secondary-color);
 	padding-top: 22px;
 	padding-left: 50px;
+	
 }
 
 .work-duration {

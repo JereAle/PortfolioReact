@@ -1,14 +1,14 @@
 :root {
 	/* ------- colors ------- */
-	--primary-color: #27272a;
-	--secondary-color: #65656d;
-	--tertiary-color: #acacb4;
+	--primary-color: #2D3233;
+	--secondary-color: #283233;
+	--tertiary-color: #2E4346;
 	--quaternary-color: #e4e4e7;
-	--link-color: #14b8a6;
+	--link-color: #00D8F0;
 	/* ---------------------- */
 
 	/* ------- fonts ------- */
 	--primary-font: "Heebo", sans-serif;
-	--secondary-font: "Roboto", sans-serif;
+	--secondary-font: "Bequest", sans-serif;
 	/* --------------------- */
 }
