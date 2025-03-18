@@ -42,6 +42,15 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/JereAle/PokeAppRoom",
 		},
+		{
+			title: "PortafolioReact",
+			description:
+				"The Pokédex App is a modern Android application built using Kotlin, Jetpack Compose, and Room. It provides users with an intuitive interface to browse and search for Pokémon, Items, and Abilities. The app integrates with PokeAPI to fetch real-time data, ensuring up-to-date information about Pokémon.",
+			logo: "React-icon.svg",
+			linkText: "View Project",
+			link: "https://github.com/JereAle/PortfolioReact",
+		},
+		
 	],
 };
 
